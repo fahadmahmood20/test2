@@ -1,0 +1,3 @@
+# ninja log v5
+0	76	1611719455	CMakeFiles/native-lib.dir/native-lib.cpp.o	f14c3c11ca5e99a8
+76	104	1611719455	/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	e364ca9c8a8e82ab

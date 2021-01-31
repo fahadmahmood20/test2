@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/src/cpp/CMakeLists.txt",
+    "/Users/cassolution/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/cassolution/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/cassolution/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/cassolution/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/cassolution/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/.cxx/cmake/release/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

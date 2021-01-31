@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/cassolution/CAS Work/xyz/Projects/tekdhaba/sdks/polar-ble-sdk-master/examples/example-android/androidBleSdkTestApp/app/.cxx/cmake/debug/x86'
+ninja: no work to do.
